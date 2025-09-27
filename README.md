@@ -15,8 +15,6 @@ The project covers **data cleaning, Q&A-style EDA, clustering with K-Means, mode
 ├── notebooks/
 │   ├── 01_clean_merge_addcols.ipynb    # Data cleaning, merging & feature engineering
 │   └── 02_eda_and_model.ipynb          # EDA (Q&A) & clustering models
-├── outputs/
-│   └── riyadh_metro_with_clusters.csv  # (Optional) Data with cluster assignments
 ├── requirements.txt                    # Python dependencies
 └── README.md                           # Project documentation
 ```
