@@ -1,0 +1,89 @@
+Station_Name,Type_of_Utility,Number_of_Ratings,Longitude,Latitude,Metro line number,Metro line name,Station type,Match_Method,Rating
+Abu Dhabi square,Metro Station,6,46.7163204,24.7060545,Line5,Green line,Deep Underground,exact/alias,4.2
+Ad Dar Al Baida,Metro Station,8,46.7763009,24.5599956,Line1,Blue line,Elevated,exact/alias,4.9
+Ad Dhabab,Metro Station,1,46.7075259,24.7097595,Line5,Green line,Deep Underground,exact/alias,5
+Ad Douh,Metro Station,3,46.5883285,24.5827481,Line3,Orange line,Elevated,exact/alias,5
+Airport T1-2,Metro Station,4,46.6989919,24.9609991,Line4,Yellow line,Elevated,exact/alias,2.5
+Airport T3-4,Metro Station,6,46.7022528,24.9559904,Line4,Yellow line,Elevated,exact/alias,4.7
+Airport T5,Metro Station,2,46.7102298,24.9408001,Line4,Yellow line,Elevated,exact/alias,5
+Aishah bint Abi Bakr Street,Metro Station,1,46.6437994,24.6005633,Line3,Orange line,Elevated,exact/alias,5
+Al Andalus,Metro Station,0,46.7903506,24.7567803,Line6,Purple line,Elevated,exact/alias,0
+Al Aziziah,Metro Station,1,46.760823,24.5872573,Line1,Blue line,Elevated,exact/alias,4
+Al Bat’ha,Metro Station,1,46.7147124,24.6369127,Line1,Blue line,Deep Underground,exact/alias,5
+Al Hamra,Metro Station,0,46.7766872,24.775949,Line6,Purple line,Elevated,exact/alias,0
+Al Hilla,Metro Station,1,46.721881,24.6322502,Line3,Orange line,Deep Underground,exact/alias,5
+Al Iman Hospital,Metro Station,2,46.7358408,24.6005143,Line1,Blue line,Elevated,exact/alias,5
+Al Jarradiyah,Metro Station,0,46.6974109,24.6182534,Line3,Orange line,Elevated,exact/alias,0
+Al Khaleej,Metro Station,1,46.7940337,24.7818785,Line2,Red line,Shallow Underground,exact/alias,5
+Al Malaz,Metro Station,2,46.7447701,24.6614228,Line3,Orange line,Deep Underground,exact/alias,5
+Al Margab,Metro Station,0,46.7263187,24.6344958,Line3,Orange line,Deep Underground,exact/alias,0
+Al Muorabba,Metro Station,0,46.7022887,24.6648026,Line1,Blue line,Deep Underground,exact/alias,0
+Al Murooj,Metro Station,2,46.6544534,24.7545288,Line1,Blue line,Deep Underground,exact/alias,3
+Al Owd,Metro Station,0,46.7215127,24.6255297,Line1,Blue line,Deep Underground,exact/alias,0
+Al Rajhi Grand Mosque,Metro Station,0,46.779454,24.6801982,Line3,Orange line,Elevated,exact/alias,0
+Al Urubah,Metro Station,2,46.6752135,24.7133582,Line1,Blue line,Deep Underground,exact/alias,3
+Al Wizarat,Metro Station,2,46.7183955,24.6760189,Line5,Green line,Deep Underground,exact/alias,4.5
+Al Wurud,Metro Station,1,46.6770012,24.7332599,Line2,Red line,Deep Underground,exact/alias,5
+Al Wurud 2,Metro Station,1,46.6713508,24.7210533,Line1,Blue line,Deep Underground,exact/alias,2
+Al Yarmuk,Metro Station,1,46.7662398,24.7912982,Line6,Purple line,Elevated,exact/alias,5
+Alinma Bank,Metro Station,1,46.6804148,24.702986,Line1,Blue line,Deep Underground,exact/alias,4
+An Naseem,Metro Station,7,46.8275319,24.7004315,Line6,Purple line,Shallow Underground,exact/alias,4.4
+An Nuzhah,Metro Station,3,46.712269,24.7480677,Line2,Red line,At Grade,exact/alias,2.3
+Ar Rabi,Metro Station,0,46.6601128,24.7862174,Line4,Yellow line,Elevated,exact/alias,0
+As Salam,Metro Station,1,46.8112903,24.7226689,Line6,Purple line,Elevated,exact/alias,5
+As Salhiyah,Metro Station,1,46.7329123,24.6377619,Line3,Orange line,Deep Underground,exact/alias,5
+As Sulimaniyah,Metro Station,0,46.7003484,24.712787,Line5,Green line,Deep Underground,exact/alias,0
+At Takhassussi,Metro Station,1,46.654669,24.7237623,Line2,Red line,Shallow Underground,exact/alias,5
+Bank Albilad,Metro Station,3,46.6836577,24.6966365,Line1,Blue line,Deep Underground,exact/alias,5
+Courts Complex,Metro Station,7,46.712296,24.6267301,Line3,Orange line,Deep Underground,exact/alias,3.3
+Dhahrat Al Badiah,Metro Station,3,46.6537887,24.606738,Line3,Orange line,Elevated,exact/alias,4.3
+Dr Sulaiman Al Habib,Metro Station,5,46.6257792,24.8114727,Line1,Blue line,Elevated,exact/alias,4.2
+First Industrial City,Metro Station,1,46.7394161,24.6451922,Line3,Orange line,Deep Underground,exact/alias,5
+Gosi,Metro Station,2,46.7181889,24.686271,Line5,Green line,Deep Underground,exact/alias,5
+Granadia,Metro Station,3,46.7292023,24.7864457,Line6,Purple line,Elevated,exact/alias,4.7
+Harun ar Rashid Road,Metro Station,0,46.795992,24.6860343,Line3,Orange line,Shallow Underground,exact/alias,0
+Hassan Bin Thabit Street,Metro Station,0,46.8474565,24.7127625,Line3,Orange line,Shallow Underground,exact/alias,0
+Ishbiliyah,Metro Station,4,46.8111286,24.7924073,Line2,Red line,At Grade,exact/alias,5
+Jarir District,Metro Station,1,46.760293,24.6729904,Line3,Orange line,Elevated,exact/alias,5
+Jeddah Road,Metro Station,4,46.5435474,24.5914477,Line3,Orange line,Elevated,exact/alias,4
+KACST,Metro Station,1,46.6480934,24.7210125,Line2,Red line,Shallow Underground,exact/alias,4
+KAFD,Metro Station,561,46.6430625,24.7674375,Line1,Blue line,Elevated,exact/alias,4.7
+Khalid Bin Alwaleed Road,Metro Station,1,46.7588826,24.7676049,Line2,Red line,Shallow Underground,exact/alias,5
+Khashm Al An,Metro Station,0,46.8603114,24.7212165,Line3,Orange line,Shallow Underground,exact/alias,0
+Khurais Road,Metro Station,3,46.7987229,24.740717,Line6,Purple line,Elevated,exact/alias,4.3
+King Abdulaziz Hospital,Metro Station,2,46.7177038,24.6596758,Line5,Green line,Deep Underground,exact/alias,4.5
+King Abdulaziz Road,Metro Station,2,46.6854992,24.7367927,Line2,Red line,Shallow Underground,exact/alias,5
+King Fahad District,Metro Station,2,46.6591427,24.745196,Line1,Blue line,Deep Underground,exact/alias,4.5
+King Fahad District 2,Metro Station,3,46.6635085,24.7365806,Line1,Blue line,Deep Underground,exact/alias,5
+King Fahad Library,Metro Station,1,46.6870353,24.6900745,Line1,Blue line,Deep Underground,exact/alias,5
+King Fahad Sport City,Metro Station,4,46.8365959,24.7930679,Line2,Red line,At Grade,exact/alias,5
+King Salman Oasis,Metro Station,5,46.6386072,24.7169814,Line2,Red line,Elevated,exact/alias,4.8
+King Salman Park,Metro Station,1,46.7009143,24.728193,Line5,Green line,Deep Underground,exact/alias,4
+King Saud University,Metro Station,2,46.6284023,24.7102491,Line2,Red line,Elevated,exact/alias,5
+Manfouhah,Metro Station,9,46.7275224,24.6105439,Line1,Blue line,Elevated,exact/alias,4.3
+Metro Station F2,Metro Station,43,46.7243668,24.864254,Line4,Yellow line,Elevated,nearest,4.2
+Ministry of Defence,Metro Station,0,46.7182698,24.6679945,Line5,Green line,Deep Underground,exact/alias,0
+Ministry of Education,Metro Station,1,46.6948417,24.7401133,Line2,Red line,At Grade,exact/alias,5
+Ministry of Finance,Metro Station,0,46.7163114,24.6521076,Line5,Green line,Deep Underground,exact/alias,0
+Ministry of Interior,Metro Station,0,46.6949136,24.6744353,Line1,Blue line,Deep Underground,exact/alias,0
+National Museum,Metro Station,12,46.7131583,24.6452738,Line5,Green line,Deep Underground,exact/alias,4.7
+Officers Club,Metro Station,2,46.7179554,24.6978852,Line5,Green line,Deep Underground,exact/alias,5
+PNU1,Metro Station,182,46.72122566,24.84271858,Line4,Yellow line,Elevated,exact/alias,4.151648352
+PNU2,Metro Station,266,46.71515763,24.8576111,Line4,Yellow line,Elevated,exact/alias,4.208646617
+Passport Department,Metro Station,2,46.7042201,24.6598064,Line1,Blue line,Deep Underground,exact/alias,5
+Qasr Al Hokm,Metro Station,10,46.7162036,24.6289022,Line3,Orange line,Deep Underground,exact/alias,4.4
+Railway,Metro Station,0,46.7406288,24.6494052,Line3,Orange line,Deep Underground,exact/alias,0
+Riyadh Exhibition Center,Metro Station,0,46.7271092,24.7545206,Line2,Red line,Elevated,exact/alias,0
+Riyadh Metro Station - STC محطة مترو الرياض - اس تي سي (ازرق),Metro Station,407,46.6670073,24.7266373,Line1,Blue line,Deep Underground,nearest,4.8
+Riyadh Metro Station | MOE,Metro Station,32,46.6947625,24.7406772,Line2,Red line,At Grade,nearest,4.6
+Riyadh Metro Station | SAB,Metro Station,535,46.6163548,24.8300181,Line1,Blue line,Elevated,nearest,4.7
+SAB Bank,Metro Station,4,46.6165805,24.8294509,Line1,Blue line,Elevated,nearest,2.8
+STC,Metro Station,1,46.6668053,24.7267406,Line1,Blue line,Deep Underground,exact/alias,5
+Sabic,Metro Station,2,46.7095202,24.8070777,Line6,Purple line,Shallow Underground,exact/alias,5
+Skirinah,Metro Station,0,46.7253485,24.6178532,Line1,Blue line,Elevated,exact/alias,0
+Subway,Metro Station,764,46.6559547,24.7955921,Line4,Yellow line,Elevated,nearest,4.3
+Sultanah,Metro Station,0,46.6864245,24.6149704,Line3,Orange line,Elevated,exact/alias,0
+Transportation Center,Metro Station,4,46.7451024,24.5982926,Line1,Blue line,Elevated,exact/alias,5
+Tuwaiq,Metro Station,4,46.5596991,24.5854683,Line3,Orange line,Elevated,exact/alias,5
+Uthman Bin Affan Road,Metro Station,1,46.6959646,24.8013859,Line4,Yellow line,Elevated,exact/alias,5
+Western Station,Metro Station,1,46.6144964,24.5819475,Line3,Orange line,Elevated,exact/alias,1
