@@ -33,7 +33,7 @@ The project covers **data cleaning, Q&A-style EDA, clustering with K-Means, mode
 
 ## 📊 Dataset
 
-- **Source**: Manually cleaned & merged Riyadh Metro Stations Dataset
+- **Source**: Kaggle and opendatasoft
 - **Stations**: ~88
 - **Type**: Structural (not time-series)
 
