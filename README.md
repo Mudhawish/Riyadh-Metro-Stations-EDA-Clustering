@@ -1,7 +1,7 @@
 # 🚇 Riyadh Metro Stations — EDA & Clustering
 
 An exploratory data analysis and clustering project using **Riyadh Metro station data** (~88 stations).  
-The project covers **data cleaning, Q&A-style EDA, clustering with K-Means, model evaluation, and interactive Plotly visualizations** to better understand metro coverage and station groupings.
+The project covers **data cleaning, Q&A-style EDA, clustering with K-Means, model evaluation, dashboard using streamlit, and interactive Plotly visualizations** to better understand metro coverage and station groupings.
 
 ---
 
