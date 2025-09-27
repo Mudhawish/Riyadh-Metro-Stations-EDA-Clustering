@@ -95,8 +95,9 @@ jupyter notebook
 ---
 
  ## 👥 Contributors
-•⁠  ⁠Mudhawish (@Mudhawish)  
+•⁠  ⁠Mudhawi Alshiha (@Mudhawish)  
 •⁠  ⁠Abdulelah Alowaid (@AbAlowaid)
+•⁠  ⁠Fatima Alsubaie (@fatima_turki)
 
 ---
 
