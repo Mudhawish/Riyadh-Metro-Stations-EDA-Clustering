@@ -10,6 +10,4 @@ __pycache__/
 .vscode/
 .idea/
 
-# Optional: outputs
-outputs/*.png
-outputs/*.html
+
