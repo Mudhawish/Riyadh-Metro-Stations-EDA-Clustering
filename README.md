@@ -94,11 +94,10 @@ jupyter notebook
 
 ---
 
- ## 👥 Contributors
-•⁠  ⁠Mudhawi Alshiha (@Mudhawish)  
-•⁠  ⁠Abdulelah Alowaid (@AbAlowaid)
-•⁠  ⁠Fatima Alsubaie (@fatima_turki)
-
+## 👥 Contributors
+- Mudhawi Alshiha (@Mudhawish)  
+- Abdulelah Alowaid (@AbAlowaid)  
+- ⁠Fatima Alsubaie (@fatima_turki) 
 ---
 
 ## ✨ Acknowledgments
